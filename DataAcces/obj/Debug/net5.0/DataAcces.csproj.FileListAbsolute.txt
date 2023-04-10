@@ -1,0 +1,15 @@
+C:\Users\kevin\source\repos\ApiBasicAuth\DataAcces\bin\Debug\net5.0\DataAcces.deps.json
+C:\Users\kevin\source\repos\ApiBasicAuth\DataAcces\bin\Debug\net5.0\DataAcces.runtimeconfig.json
+C:\Users\kevin\source\repos\ApiBasicAuth\DataAcces\bin\Debug\net5.0\DataAcces.runtimeconfig.dev.json
+C:\Users\kevin\source\repos\ApiBasicAuth\DataAcces\bin\Debug\net5.0\DataAcces.dll
+C:\Users\kevin\source\repos\ApiBasicAuth\DataAcces\bin\Debug\net5.0\DataAcces.pdb
+C:\Users\kevin\source\repos\ApiBasicAuth\DataAcces\obj\Debug\net5.0\DataAcces.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\ApiBasicAuth\DataAcces\obj\Debug\net5.0\DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\ApiBasicAuth\DataAcces\obj\Debug\net5.0\DataAcces.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\ApiBasicAuth\DataAcces\obj\Debug\net5.0\DataAcces.AssemblyInfo.cs
+C:\Users\kevin\source\repos\ApiBasicAuth\DataAcces\obj\Debug\net5.0\DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\ApiBasicAuth\DataAcces\obj\Debug\net5.0\DataAcces.dll
+C:\Users\kevin\source\repos\ApiBasicAuth\DataAcces\obj\Debug\net5.0\refint\DataAcces.dll
+C:\Users\kevin\source\repos\ApiBasicAuth\DataAcces\obj\Debug\net5.0\DataAcces.pdb
+C:\Users\kevin\source\repos\ApiBasicAuth\DataAcces\obj\Debug\net5.0\DataAcces.genruntimeconfig.cache
+C:\Users\kevin\source\repos\ApiBasicAuth\DataAcces\obj\Debug\net5.0\ref\DataAcces.dll
